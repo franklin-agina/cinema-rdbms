@@ -31,4 +31,3 @@ Movie ───< Showtime >─── Screen
 
 ## Credits
 - Author: Franklin Okoth Agina
-- AI assistance: ChatGPT (used for guidance and documentation)
